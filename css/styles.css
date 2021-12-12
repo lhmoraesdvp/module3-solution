@@ -1,0 +1,32 @@
+.navbar-nav>li>a {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    line-height: 15px;
+    text-align: center;
+}
+hr {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    /* background-color: white; */
+}
+#content{
+
+
+padding-left: 5%;
+padding-right: 5%;
+
+
+
+}
+#content>section{
+    margin-top: 20px;
+    display: block;
+    background-color: gray;
+ 
+    
+}
