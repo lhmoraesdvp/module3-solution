@@ -11,8 +11,9 @@ hr {
     border-top: 1px solid #eee;
 }
 
-.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    /* background-color: white; */
+#menu {
+
+     background-color: white;
 }
 #content{
 
